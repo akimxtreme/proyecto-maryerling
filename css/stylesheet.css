@@ -1,0 +1,41 @@
+/* 
+    Document   : stylesheet
+    Created on : 09-ago-2013, 8:24:50
+    Author     : dilarreta
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+/* Propiedades para el Contenedor */
+.contenedor {
+    box-shadow: 0px 0px 3px #CCCCCC;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    margin: 5px auto 5px auto;
+}
+
+/*Colores*/
+
+.rojo {
+    color: #C5000A;
+    text-shadow: 0px 0px 2px #CCCCCC;
+}
+
+.verde {
+    color: #0C0;
+    text-shadow: 0px 0px 2px #CCCCCC;
+}
+
+.azul {
+    color: #03C;
+    text-shadow: 0px 0px 2px #CCCCCC;
+}
+
+/* Centrar Texto */
+.tJustify {
+    text-align: justify;
+}
